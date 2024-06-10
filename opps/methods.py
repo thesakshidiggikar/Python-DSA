@@ -58,3 +58,4 @@
 # OOps Concept
 # del
 amt = 1000
+amt = 1000
