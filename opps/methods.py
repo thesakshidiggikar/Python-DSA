@@ -33,7 +33,7 @@
 
 # class Bankdetail:
 
-    
+
 #     def __init__(self, balance, acc):
 #         self.balance=balance
 #         self.acc=acc
@@ -55,6 +55,7 @@
 # s1.Bal()
 
 
-#OOps Concept 
-#del 
-#del 
+# OOps Concept
+# del
+# del
+# del
