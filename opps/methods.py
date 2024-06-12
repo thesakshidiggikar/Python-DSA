@@ -55,5 +55,33 @@
 # s1.Bal()
 
 
-#OOps Concept 
-#del 
+#OOps Concept
+#del
+## pvt attribute
+# class Admission:
+#     def __init__(self, name, prn):
+#         self.name=name
+#         self.__prn__=prn
+#     def reset_passwd(self):
+#         print(self.__prn__)
+
+# s1=Admission("Sakshi","Anu")
+# print(s1.name)
+# # print(s1.prn)
+# print(s1.reset_passwd())
+
+#______________________________________________________________________________
+#private function
+class Pvtfunc:
+    __name="Ananymous"
+
+    def __pvtattribute(self):
+        print("Hello")
+
+
+    def welcome(self):
+        print(self.__pvtattribute)
+        print("World!")
+
+s1=Pvtfunc()
+print(s1.welcome())
