@@ -33,7 +33,7 @@
 
 # class Bankdetail:
 
-    
+
 #     def __init__(self, balance, acc):
 #         self.balance=balance
 #         self.acc=acc
@@ -55,8 +55,8 @@
 # s1.Bal()
 
 
-#OOps Concept
-#del
+# OOps Concept
+# del
 ## pvt attribute
 # class Admission:
 #     def __init__(self, name, prn):
@@ -70,8 +70,8 @@
 # # print(s1.prn)
 # print(s1.reset_passwd())
 
-#______________________________________________________________________________
-#private function
+# ______________________________________________________________________________
+# private function
 class Pvtfunc:
     __name="Ananymous"
 
