@@ -85,4 +85,3 @@ class Pvtfunc:
 
 s1=Pvtfunc()
 print(s1.welcome())
-print(s1.welcome())print(s1.welcome())print(s1.welcome())print(s1.welcome())print(s1.welcome())
