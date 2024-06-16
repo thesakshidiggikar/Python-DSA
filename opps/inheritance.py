@@ -30,3 +30,7 @@ class BMW(Inherit1):                  #derived class
 lass BMW(Inherit1):                  #derived class
 #     def __init__(self,name):
 #         self.name=name
+lass BMW(Inherit1):                  #derived class
+#     def __init__(self,name):
+#         self.name=name
+
