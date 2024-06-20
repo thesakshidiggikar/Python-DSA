@@ -25,7 +25,8 @@
             #super().__init__(name)
 #class BMW(Inherit1):                  #derived class
 #     def __init__(self,name):
-#         self.name=name
+#        
+ self.name=name
 
 
 
