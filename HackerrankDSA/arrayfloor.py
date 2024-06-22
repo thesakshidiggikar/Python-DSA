@@ -1,8 +1,8 @@
 import numpy as np
 
-A = tuple(map(int, input().split()))
-arr = np.array(A)
-print(arr)
-# print(np.floor(arr))
-# print(np.ceil(arr))
-# print(np.rint(arr))
+A = input().split()
+arr = np.array(A, dtype="float")
+np.set_printoptions(legacy="1.13")
+print(np.floor(arr))
+print(np.ceil(arr))
+print(np.rint(arr))
