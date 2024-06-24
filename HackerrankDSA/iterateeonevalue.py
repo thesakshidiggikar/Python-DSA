@@ -42,4 +42,4 @@ if __name__ == "__main__":
 
     fptr.close()
     fptr.close()
-
+fptr.close()
