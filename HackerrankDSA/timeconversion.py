@@ -19,7 +19,7 @@ def timeConversion(s):
     # Write your code here
     original_time = datetime.strptime(s, "%I:%M:%S%p")
     # convert
-    conv = original_time.strftime("%H:%M:%S")
+    conva = original_time.strftime("%H:%M:%S")
     return conva
 
 
