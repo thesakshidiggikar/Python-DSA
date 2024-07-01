@@ -47,11 +47,4 @@ if __name__ == "__main__":
     fptr.write("\n")
 
     fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
-    fptr.close()
+
