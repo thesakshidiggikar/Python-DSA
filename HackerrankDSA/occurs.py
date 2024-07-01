@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+
 def matchingStrings(strings, queries):
     frequency_dict = {}
 
@@ -47,4 +48,3 @@ if __name__ == "__main__":
     fptr.write("\n")
 
     fptr.close()
-
