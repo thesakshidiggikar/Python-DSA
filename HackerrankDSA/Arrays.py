@@ -12,3 +12,4 @@ reversed_A = reverseArray(A)
 
 
 print(" ".join(map(str, reversed_A)))
+.
