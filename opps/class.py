@@ -40,3 +40,4 @@ s1 = Student("Anu", [89, 90, 98])
 s2 = Student("Sakshi", [94.91, 87])
 s3 = Student("Shreyash", [99, 83, 98])
 s3.avgcal()
+
