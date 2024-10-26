@@ -7,3 +7,12 @@ print("!")
 output : hello 
          World
          !
+print("hello")
+print("World")
+print("!")
+
+
+
+output : hello 
+         World
+         !
