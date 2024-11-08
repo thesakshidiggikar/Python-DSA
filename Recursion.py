@@ -13,3 +13,4 @@ def sum(n):
     return sum(n - 1) + n
 cal=sum(5)
 print(cal)
+.
