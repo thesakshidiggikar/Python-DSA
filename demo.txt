@@ -16,12 +16,7 @@ print("!")
 output : hello 
          World
          !
-.
-.
-.
-.
-.
-.
+
 # def rec(n):
 #     if(n==0):  #function calling it self
 #         return
