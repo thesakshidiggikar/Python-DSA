@@ -16,5 +16,3 @@ print("!")
 output : hello 
          World
          !
-
-
