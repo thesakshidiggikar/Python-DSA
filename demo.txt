@@ -10,3 +10,15 @@ output : hello
 print("hello")
 print("World")
 print("!")
+print("hello")
+print("World")
+print("!")
+
+
+
+output : hello 
+         World
+         !
+print("hello")
+print("World")
+print("!")
