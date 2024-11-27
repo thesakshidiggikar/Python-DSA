@@ -5,12 +5,7 @@ print("!")
 
 
 output : hello 
-         World
-         !
-
-print("hello")
-print("World")
-print("!")
+         Woprint("!")
 print("hello")
 print("World")
 print("!")
