@@ -3,22 +3,3 @@ print("World")
 print("!")
 
 
-
-output : hello 
-         Woprint("!")
-print("hello")
-print("World")
-print("!")
-output : hello 
-         World
-ld
-         !
-print("hello")
-print("World")
-print("!")
-print("hello")
-print("World")
-print("!")
-output : hello 
-         World
-
