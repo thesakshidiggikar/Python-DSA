@@ -1,7 +1,5 @@
 
-print("hello")
-print("World")
-print("!")
+
 Naïve Bayes Classifier Algorithm
  ○
  ○
