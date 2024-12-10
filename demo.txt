@@ -1,25 +1,5 @@
 
+print("hello")
+print("World")
+print("!")
 
-Naïve Bayes Classifier Algorithm
- ○
- ○
- Naïve Bayes algorithm is a supervised learning algorithm, which is based on 
-theorem
- and used for solving classification problems.
- It is mainly used in 
-Bayes 
-text classification
- that includes a high-dimensional training 
-dataset.
- ○
- Naïve Bayes Classifier is one of the simple and most effective Classification 
-algorithms which helps in building the fast machine learning models that can make 
-quick predictions
-How Do Naive Bayes Algorithms Work?
- Let’s understand it using an example. Below I have a training data set of weather and corresponding target variable ‘Play’ (suggesting 
-possibilities of playing). Now, we need to classify whether players will play or not based on weather condition. Let’s follow the below 
-steps to perform it.
- 1. Convert the data set into a frequency table
- In this first step data set is converted into a frequency table
- 2. Create Likelihood table by finding the probabilities
- Create Likelihood table by finding the probabilities like Overcast probability = 0.29 and probability of playing is 0.64
