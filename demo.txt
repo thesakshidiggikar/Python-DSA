@@ -2,6 +2,3 @@ print("hello")
 print("World")
 print ( "It'sPython programming")
 /
-/
-/
-/
