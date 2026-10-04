@@ -1,3 +1,2 @@
 print("hello")
 print("World")
-print ( "'000It'sPython programmin
