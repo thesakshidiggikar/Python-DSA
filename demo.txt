@@ -1,2 +1,1 @@
-print("hello ")
 print("it's my first working day")
