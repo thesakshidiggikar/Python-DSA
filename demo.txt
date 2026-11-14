@@ -1,1 +1,1 @@
-print("It's for my examination purpose")
+print("It's for my examination 
