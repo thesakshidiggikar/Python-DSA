@@ -11,7 +11,3 @@ class Solution:
                 total = sum(int(digit) for digit in group)
 
                 result += str(total)
-
-            s = result
-
-        return s
