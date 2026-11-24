@@ -5,5 +5,4 @@ class Solution:
         while len(s) > k:
             result = ""
 
-            for i in range(0, len(s), k):
-                
+            for i in range(0, len(s), 
